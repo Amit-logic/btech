@@ -1,4 +1,4 @@
 # btech
-this is my first repository.
-author:- Amit singh
+this is my first repository.<br>
+Author:- Amit singh
 
