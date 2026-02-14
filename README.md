@@ -1,2 +1,4 @@
 # btech
-html and css
+this is my first repository.
+author:- Amit singh
+
